@@ -1,0 +1,28 @@
+{
+    "id": "F85328AF",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1705348895242.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "bc224edbbe2749a18ad2e09e6a11df6d",
+        "name": "hc_means",
+        "title": "hc_means",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2815286640115744,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1705348895242,
+    "read_only": false,
+    "read_only_alternatives": []
+}
